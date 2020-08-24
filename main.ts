@@ -1,3 +1,4 @@
+scene.setBackgroundColor(10)
 let donis = sprites.create(img`
     . . . . . . . . . . . . . . b b b b b b b . . . . . . . . . . . 
     . . . . . . . . . . . b b 6 6 6 6 3 3 3 3 b a a . . . . . . . . 
